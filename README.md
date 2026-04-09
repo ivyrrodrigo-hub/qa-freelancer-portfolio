@@ -1,7 +1,5 @@
 # QA Freelancer Portfolio
 
-A beginner-friendly but professional GitHub portfolio for a **Test Engineer specializing in Manual Testing and API Testing**.
-
 This repository is structured to help potential clients quickly review:
 - manual test case design
 - API test artifacts
@@ -52,5 +50,5 @@ Includes:
 - severity and impact
 
 ## About Me
-Senior QA professional with strong experience in manual testing, API testing, defect investigation, Agile delivery, and cross-functional collaboration.
+QA professional with strong experience in manual testing, API testing, defect investigation, Agile delivery, and cross-functional collaboration.
 
