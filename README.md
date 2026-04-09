@@ -51,16 +51,6 @@ Includes:
 - expected vs actual result
 - severity and impact
 
-## Suggested Next Updates
-You can improve this portfolio further by adding:
-1. screenshots
-2. Excel versions of test cases
-3. SQL validation samples
-4. Jira-style bug report exports
-5. real project summaries with anonymized details
-
 ## About Me
-You can replace this section with your own profile summary:
-
-> Senior QA professional with strong experience in manual testing, API testing, defect investigation, Agile delivery, and cross-functional collaboration.
+Senior QA professional with strong experience in manual testing, API testing, defect investigation, Agile delivery, and cross-functional collaboration.
 
